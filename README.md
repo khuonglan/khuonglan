@@ -1,9 +1,7 @@
 
 Welcome to my Github! I'm Lân. 
 
-📊 I love exploring data to find actionable insights
-🎓 Learning everyday to be better
-📈 Python, SQL, Power BI are my favorite tools
+I'm passionate about working with data: my goal is to help the business with actionable insights from the data I work on.  I'm a senior finance manager and practice Power BI and SQL. Going on the data science/ML path with Python. Love data visualization to make storytelling stronger. 
 
 I'm also on:
 https://www.linkedin.com/in/lancaothai/
